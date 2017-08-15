@@ -15,8 +15,8 @@ Some of the resources are as follows:
 
 1. [Part 1 - What is Beyes ? ](https://www.youtube.com/watch?v=3OJEae7Qb_o)
     * Exercise that goes with the first video : http://www.sumsar.net/files/posts/2017-bayesian-tutorial-exercises/modeling_exercise1.html
-2. [Part 2 - Why use Bayes ? ] (http://www.sumsar.net/blog/2017/02/introduction-to-bayesian-data-analysis-part-two/)
-3. [Part 3 - How to do Bayes ? ](http://www.sumsar.net/blog/2017/05/introduction-to-bayesian-data-analysis-part-three/)
+2. [Part 2 - Why use Bayes ?](http://www.sumsar.net/blog/2017/02/introduction-to-bayesian-data-analysis-part-two/)
+3. [Part 3 - How to do Bayes ?](http://www.sumsar.net/blog/2017/05/introduction-to-bayesian-data-analysis-part-three/)
 
 
 ## Resources 
