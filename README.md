@@ -14,4 +14,5 @@ Some of the resources are as follows:
 ## Bayesian Data Analyis 
 
 1. [Part 1 - What is Beyes ? ](https://www.youtube.com/watch?v=3OJEae7Qb_o)
+  * Exercise that goes with the first video : http://www.sumsar.net/files/posts/2017-bayesian-tutorial-exercises/modeling_exercise1.html
 2. 
