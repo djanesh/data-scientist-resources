@@ -16,3 +16,8 @@ Some of the resources are as follows:
 1. [Part 1 - What is Beyes ? ](https://www.youtube.com/watch?v=3OJEae7Qb_o)
     * Exercise that goes with the first video : http://www.sumsar.net/files/posts/2017-bayesian-tutorial-exercises/modeling_exercise1.html
 2. 
+
+
+## Resources 
+
+1. [Lessons Learned Data Science Interviews](https://github.com/gkamradt/Lessons-Learned-Data-Science-Interviews/blob/master/Lessons%20Learned%20-%20Data%20Science%20Interviews.pdf)
