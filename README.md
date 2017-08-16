@@ -22,3 +22,7 @@ Some of the resources are as follows:
 ## Resources 
 
 1. [Lessons Learned Data Science Interviews](https://github.com/gkamradt/Lessons-Learned-Data-Science-Interviews/blob/master/Lessons%20Learned%20-%20Data%20Science%20Interviews.pdf)
+2. [Fantastic Trello resource on Data science](https://trello.com/b/rbpEfMld/data-science)
+
+## Tutorials 
+1. [Titanic Survival Tutorial by Trevor Stephens](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
