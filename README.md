@@ -26,3 +26,11 @@ Some of the resources are as follows:
 
 ## Tutorials 
 1. [Titanic Survival Tutorial by Trevor Stephens](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
+
+
+## Github Repositories that help become data scientist
+
+1. [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
+2. [Statistics for Data Scientist](https://github.com/andrewgbruce/statistics-for-data-scientists)
+3. [Knowledge Repo](https://github.com/andrewgbruce/statistics-for-data-scientists)
+4. [UW lecture content for UW Softwater Engineering for Data Scientists](https://github.com/UWSEDS/LectureNotes)
