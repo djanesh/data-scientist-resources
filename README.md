@@ -9,7 +9,7 @@ Some of the resources are as follows:
 4. [Data Science Central - Job interview questions](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
 5. [50 Questions to test true data science knowledge](http://www.datasciencecentral.com/profiles/blogs/25-questions-to-detect-fake-data-scientists)
 6. [Data Science Central - Answer to number of questions](http://www.datasciencecentral.com/profiles/blogs/answers-to-dozens-of-data-science-job-interview-questions?xg_source=activity)
-7. [Glass Door Data Science Interview Questions and Answers)(https://www.glassdoor.com/Interview/data-scientist-interview-questions-SRCH_KO0,14_SDMC.htm)
+7. [Glass Door Data Science Interview Questions and Answers](https://www.glassdoor.com/Interview/data-scientist-interview-questions-SRCH_KO0,14_SDMC.htm)
 
 
 # Bayesian Data Analyis 
