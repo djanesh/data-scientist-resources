@@ -26,6 +26,7 @@ Some of the resources are as follows:
 
 ## Video Resources
 1. [How to become a data scientist in 2017](https://www.youtube.com/watch?v=ccCblUZFM0w)
+2. [How to become data scientist in six months](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 ## Data Analysis Tutorials 
 1. [Titanic Survival Tutorial by Trevor Stephens](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
