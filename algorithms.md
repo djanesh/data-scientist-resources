@@ -1,5 +1,8 @@
 # [Big O notation Cheat Sheet](http://bigocheatsheet.com/)
 # Gradient Descent Algorithm in R for 2 variables (x and y)
+
+Basic Equations of Gradient Descent Algorithm
+![Basic Equations](https://snag.gy/5ByKSs.jpg)
   ```r
   # Simple data set
 data <- read.table(text = "
