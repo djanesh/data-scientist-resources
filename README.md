@@ -24,6 +24,7 @@ Some of the resources are as follows:
 
 1. [Lessons Learned Data Science Interviews](https://github.com/gkamradt/Lessons-Learned-Data-Science-Interviews/blob/master/Lessons%20Learned%20-%20Data%20Science%20Interviews.pdf)
 2. [Fantastic Trello resource on Data science](https://trello.com/b/rbpEfMld/data-science)
+3. [Kaggle Competition past solutions](http://www.chioka.in/kaggle-competition-solutions/)
 
 ## Video Resources
 1. [How to become a data scientist in 2017](https://www.youtube.com/watch?v=ccCblUZFM0w)
