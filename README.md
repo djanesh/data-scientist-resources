@@ -12,7 +12,7 @@ Some of the resources are as follows:
 7. [Glass Door Data Science Interview Questions and Answers](https://www.glassdoor.com/Interview/data-scientist-interview-questions-SRCH_KO0,14_SDMC.htm)
 
 
-# Bayesian Data Analyis 
+# Bayesian Data Analysis 
 
 1. [Part 1 - What is Beyes ? ](https://www.youtube.com/watch?v=3OJEae7Qb_o)
     * Exercise that goes with the first video : http://www.sumsar.net/files/posts/2017-bayesian-tutorial-exercises/modeling_exercise1.html
