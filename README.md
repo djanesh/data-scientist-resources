@@ -41,5 +41,8 @@ Some of the resources are as follows:
 3. [Knowledge Repo](https://github.com/andrewgbruce/statistics-for-data-scientists)
 4. [UW lecture content for UW Softwater Engineering for Data Scientists](https://github.com/UWSEDS/LectureNotes)
 
+# My SQL
+1. [MySQL Tutorial by Derek Banas](https://www.youtube.com/watch?v=yPu6qV5byu4)
+
 # Path Forward 
 1. ![How to be data scientist in 6 months](https://camo.githubusercontent.com/c4cff9f4895e67a99140a2bd79f6604cea56d406/68747470733a2f2f736e61672e67792f5570474152532e6a7067)
